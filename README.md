@@ -1,2 +1,3 @@
 # test_repo
-Test push.
+Test push.\
+Test merge.
